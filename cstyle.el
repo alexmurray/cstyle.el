@@ -7,7 +7,7 @@
 (require 'compile)
 
 (defcustom cstyle-executable
-  "~/cstyle/cstyle.py"
+  "cstyle"
   "Name / path to the cstyle executable to use."
   :type 'string
   :group 'cstyle)
